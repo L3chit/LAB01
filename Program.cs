@@ -1,2 +1,1 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Rozpoczynamy zajęcia!");
+﻿Console.WriteLine("Pierwszy program w VS!");
